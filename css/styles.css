@@ -1,0 +1,17 @@
+.logo {
+  width: 150px;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #f6f6f6;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
