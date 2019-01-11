@@ -58,3 +58,11 @@ border: none;
 .col-lg-offset-4 {
   padding-top: 22px;
 }
+
+.panel-danger > .panel-heading {
+  border: 1px solid #afa3bf;
+}
+
+input {
+  margin-top: 8px;
+}
