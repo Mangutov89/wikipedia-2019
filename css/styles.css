@@ -8,10 +8,53 @@ html {
 
 body {
   background-color: #f6f6f6;
+  padding-left: 10px;
+  padding-top: 10px;
 }
-
-ul {
+ul.bullet {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.panel-danger .panel-heading {
+  background-color: #ddcef2;
+  color: black;
+  text-align: left;
+}
+
+.blah {
+  text-align: center;
+  background-color: #faf5ff;
+}
+
+.panel-heading {
+  margin: 10px;
+  padding: 6px;
+  font-weight: bold;
+  border:3px solid;
+}
+
+.navbar {
+margin-bottom: -8px;
+border: none;
+
+}
+
+.picture1 {
+  float: left;
+  padding: 0 10px 10px 10px;
+}
+
+.picture2 {
+  float: right;
+  padding: 0 10px 10px 10px;
+}
+
+.text {
+  font-size: 14px;
+}
+
+.col-lg-offset-4 {
+  padding-top: 22px;
 }
